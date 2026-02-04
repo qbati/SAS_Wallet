@@ -30,4 +30,4 @@ If you find this project helpful, please support it by leaving a star.
 For inquiries or professional connections:
 
 [![Email](https://img.shields.io/badge/Email-salah.ab.khalil%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salah.ab.khalil@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salah%20Qubati-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qbati)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salah%20Al--Qubati-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qbati)
