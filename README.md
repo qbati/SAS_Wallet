@@ -25,7 +25,7 @@ SAS Wallet Android App is a digital wallet application that allows users to secu
 ## Contact & Support
 If you find this project helpful, please support it by leaving a star.
 
-[![GitHub stars](https://img.shields.io/github/stars/ljjiz/SAS?style=social)](https://github.com/ljjiz/SAS/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/qbati/SAS_Wallet?style=social)](https://github.com/qbati/SAS_Wallet/stargazers)
 
 For inquiries or professional connections:
 
